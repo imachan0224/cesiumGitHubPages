@@ -96,8 +96,8 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.8.2 12:50</p>",
+        "name": "DAN-CHICKEN-DAN MACHIDA(ダイニング)",
+        "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -108,7 +108,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "http://3.bp.blogspot.com/-55gX4XsQnFs/UsZtFggdrmI/AAAAAAAAcxA/hGxvXnN5DQ8/s800/chicken_honetsuki.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -123,9 +123,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.73666666667,
-                35.503333333333,
-                1800
+                139.449071,
+                35.542085,
+                86
             ]
         },
         "label": {
@@ -154,7 +154,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "DAN-CHICKEN-DAN MACHIDA(ダイニング)"
         },
         "polyline": {
             "width": 1,
