@@ -185,8 +185,8 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.11.9 08:30</p>",
+        "name": "cafe 3eggs",
+        "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -197,7 +197,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "http://2.bp.blogspot.com/-4SSFZUa0ab4/Vg57ivCMfhI/AAAAAAAAyzQ/Pm4eBFxAaOc/s400/sweets_fruit_pafe.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -212,9 +212,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.6074636,
-                35.4197767,
-                1800
+                141.492276,
+                43.068598,
+                34
             ]
         },
         "label": {
@@ -243,17 +243,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "cafe 3eggs"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.6074636,
-                    35.4197767,
-                    1800,
-                    138.6074636,
-                    35.4197767,
+                    141.492276,
+                    43.068598,
+                    34,
+                    141.492276,
+                    43.068598,
                     0
                 ]
             },
