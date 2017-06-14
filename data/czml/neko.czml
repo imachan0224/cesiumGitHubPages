@@ -274,8 +274,8 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.11.22 19:20</p>",
+        "name": "東京ディズニーシー",
+        "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -286,7 +286,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "https://4.bp.blogspot.com/-Ov2t1LF6laE/UYDkHzAMHQI/AAAAAAAAQ-w/oVU1LesXaU0/s400/yuenchi.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -301,9 +301,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7607812,
-                35.5073161,
-                1800
+                139.885011,
+                35.626239,
+                24
             ]
         },
         "label": {
@@ -332,17 +332,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "東京ディズニーシー"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7607812,
-                    35.5073161,
-                    1800,
-                    138.7607812,
-                    35.5073161,
+                    139.885011,
+                    35.626239,
+                    24,
+                    139.885011,
+                    35.626239,
                     0
                 ]
             },
