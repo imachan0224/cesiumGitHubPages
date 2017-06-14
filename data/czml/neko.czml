@@ -363,8 +363,8 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.12.22 21:00</p>",
+        "name": "青山学院大学　相模原キャンパス",
+        "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -375,7 +375,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "http://1.bp.blogspot.com/-FoUrPjaUSRY/Us_L_nhHZ1I/AAAAAAAAc_Q/WJYPClruxuM/s400/daigaku_toudai.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
@@ -390,9 +390,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7579065,
-                35.5036024,
-                1800
+                139.402814,
+                35.566754,
+                114
             ]
         },
         "label": {
@@ -421,17 +421,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "青山学院大学　相模原キャンパス"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7579065,
-                    35.5036024,
-                    1800,
-                    138.7579065,
-                    35.5036024,
+                    139.402814,
+                    35.566754,
+                    114,
+                    139.402814,
+                    35.566754,
                     0
                 ]
             },
