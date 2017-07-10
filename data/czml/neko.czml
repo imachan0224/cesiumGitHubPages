@@ -7,7 +7,7 @@
     {
         "id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "遊園地",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -96,7 +96,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "DAN-CHICKEN-DAN MACHIDA(ダイニング)",
+        "name": "遊園地",
         "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "cafe 3eggs",
+        "name": "遊園地",
         "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
@@ -274,7 +274,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "東京ディズニーシー",
+        "name": "遊園地",
         "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "青山学院大学　相模原キャンパス",
+        "name": "遊園地",
         "description": "<p class=\"date\"></p>",
         "billboard": {
             "scaleByDistance": {
