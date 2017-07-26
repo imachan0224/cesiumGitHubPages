@@ -4,8 +4,7 @@
         "name": "neko",
         "version": "1.0"
     },
-　　{
-　　　  "id": "neko1",
+    {"id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "遊園地",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
@@ -96,7 +95,7 @@
 
     {
         "id": "neko2",
-        "availability": "2014-08-02T12:050:00+09:00/2017-05-05T23:59:59+09:00",
+        "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "遊園地",
         "description": "<p class=\"date\"></p>",
         "billboard": {
